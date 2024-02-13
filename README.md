@@ -26,11 +26,11 @@ In the inititial data preparation phase, we performed the following task
 # Exploratory Analysis
 EDA involved exploring the sales data to answer key business questions
 
-## - Generic Questions
+####   Generic Questions
 1. How many unique cities does the data have
 2. In which city is each branch
 
-## - Prodcut Questions
+####  Prodcut Questions
 1. How many unique product lines does the data have?
 2. What is the most common payment method between our customers?
 3. what is the most selling product line?
@@ -40,7 +40,7 @@ EDA involved exploring the sales data to answer key business questions
 7. WHat is the most common products b?etween genders?
 8. What is the average rating of each product?
 
-   ##Sales Business Questions
+#### Sales Business Questions
 1. Number of sales made in each time of the day per weekday?
 2. Which of the customer types brings the most revenuew?
 3. Which city has the largest tax/ VAT (Value Added Tax)

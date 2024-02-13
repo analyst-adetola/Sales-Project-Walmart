@@ -11,3 +11,15 @@ Analysis List
     Conduct analysis on the data to understand the different product lines, the product lines performing best and the product lines that need to be improved.
 2.  Sales Analysis
     This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modification are needed to gain more sales.
+
+Tools
+- Excel - Data Cleaning
+- MySql - Data Analysis
+- Power Bi - Data Visualization
+
+Data Cleaning/ Preparation
+In the inititial data preparation phase, we performed the following task
+1. Data Loading and Inspection
+2. Ensure no missing values in our dataset
+3. Data Cleaning and Transformation
+
